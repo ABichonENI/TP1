@@ -1,0 +1,7 @@
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\obj\Debug\TP1_ABICHON.csprojAssemblyReference.cache
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\obj\Debug\TP1_ABICHON.csproj.CoreCompileInputs.cache
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\bin\Debug\TP1_ABICHON.exe.config
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\bin\Debug\TP1_ABICHON.exe
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\bin\Debug\TP1_ABICHON.pdb
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\obj\Debug\TP1_ABICHON.exe
+C:\Users\abichon\source\repos\TP1_ABICHON\TP1_ABICHON\obj\Debug\TP1_ABICHON.pdb
