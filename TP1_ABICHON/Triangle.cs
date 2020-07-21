@@ -28,7 +28,7 @@ namespace TP1_ABICHON
 
 		public override string ToString()
 		{
-			return "test";
+			return "Triangle de Cote A=  {A} B= {B} C = {C} Perimètre = this.perimetreTriangle";
 		}
 	}
 }

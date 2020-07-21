@@ -8,19 +8,19 @@ namespace TP1_ABICHON
 {
 	class Rectangle : Forme
 	{
-		private int AireRectangle;
-		private int PerimetreRectangle;
+		private int aireRectangle;
+		private int perimetreRectangle;
 		public int Largeur { get; set; }
 		public int Longueur { get; set; }
 
 		public override void Aire()
 		{
-			AireRectangle = (Longueur*Largeur);
+			aireRectangle = (Longueur*Largeur);
 		}
 
 		public override void Perimetre()
 		{
-			PerimetreRectangle= (2*(Longueur+Largeur));
+			perimetreRectangle= (2*(Longueur+Largeur));
 		}
 	}
 }

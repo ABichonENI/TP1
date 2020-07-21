@@ -2,18 +2,18 @@
 {
 	public class Cercle : Forme
 	{
-		private int AireCercle;
-		private int PerimetreCercle;
+		private int aireCercle;
+		private int perimetreCercle;
 		public int Rayon { get; set; }
 
 		public override void Aire()
 		{
-			AireCercle = ((int)(3.14 * Rayon * Rayon)) ;
+			aireCercle = ((int)(3.14 * Rayon * Rayon)) ;
 		}
 
 		public override void Perimetre()
 		{
-			PerimetreCercle = ((int)(2*Rayon*3.14));
+			perimetreCercle = ((int)(2*Rayon*3.14));
 		}
 	}
 }
